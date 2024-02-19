@@ -1,2 +1,3 @@
-# ASAC_final_project
+# 청년 금융상품 맞춤형 서비스
+
 ASAC 기업 프로젝트 (신한은행)
